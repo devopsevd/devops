@@ -33,5 +33,7 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
+- type: boolean
+  default: true
 pages:
 - index.md
