@@ -69,7 +69,7 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
-undefined: false
+undefined: true
 
 ---
 foo bar
