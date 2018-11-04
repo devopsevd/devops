@@ -11,7 +11,7 @@ page_sections:
     link_text: Home
   cta:
     url: ''
-    button_text: Download
+    button_text: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: DevOps<br><strong>design blocks</strong>
